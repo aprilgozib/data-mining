@@ -1,0 +1,32 @@
+# DM2025 - BTC Price Prediction Assignment - Python Dependencies
+# ======================================================
+#
+# Installation:
+#   pip install -r requirements.txt
+#
+# Or with conda:
+#   conda install --file requirements.txt
+#
+
+# Core Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+xgboost>=1.5.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Optional but recommended for better performance
+joblib>=1.0.0
+
+# Optional: For additional data analysis
+scipy>=1.7.0
